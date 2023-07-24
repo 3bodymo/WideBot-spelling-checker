@@ -1,4 +1,4 @@
-# Task 1 - Spell Checker
+# Task 1 - Spelling Checker
 
 ## Overview
 
